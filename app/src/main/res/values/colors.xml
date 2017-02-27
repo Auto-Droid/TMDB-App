@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="themeColor">#6EBEC4</color>
+    <color name="light_black">#323232</color>
+    <color name="snack_error">@android:color/holo_red_dark</color>
+    <color name="snack_info">@android:color/white</color>
+    <color name="snack_success">@android:color/holo_green_dark</color>
+    <color name="white">@android:color/white</color>
+    <color name="black">#000000</color>
+    <color name="half_black">#808080</color>
+    <color name="light_grey">#EBEBF1</color>
+    <color name="semi_transparent">#99000000</color>
+
+</resources>

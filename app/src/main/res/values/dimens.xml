@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!-- font size -->
+
+    <dimen name="xsmall_font_size">10sp</dimen>
+    <dimen name="small_font_size">12sp</dimen>
+    <dimen name="medium_font_size">14sp</dimen>
+    <dimen name="large_font_size">17sp</dimen>
+    <dimen name="extra_large_font_size">18sp</dimen>
+    <dimen name="huge_font_size">22sp</dimen>
+    <dimen name="extra_huge_font_size">25sp</dimen>
+
+    <dimen name="small_margin">5dp</dimen>
+    <dimen name="book_btn_h">40dp</dimen>
+    <dimen name="viewpager_h">250dp</dimen>
+
+</resources>

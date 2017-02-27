@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="no_internet_available">No Internet Available</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="country">Country :</string>
+    <string name="revenue">Revenue :</string>
+    <string name="budget">Budget :</string>
+    <string name="website">Website :</string>
+    <string name="tagline">Tagline :</string>
+    <string name="duration">Duration :</string>
+    <string name="book_tickets">BOOK TICKETS</string>
+</resources>
