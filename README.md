@@ -4,6 +4,9 @@ This is a Demo App which gets list of movies from TMDB with detail view
 ## TMDB API
 https://www.themoviedb.org/documentation/api
 
+####Screens
+![Demo](https://github.com/Auto-Droid/TMDB-App/blob/master/Screenshot_GIF.gif)
+
 
 ##External Libs Used :
 1. **Glide** : Image loading
