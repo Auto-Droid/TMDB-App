@@ -4,6 +4,8 @@ This is a Demo App which gets list of movies from TMDB with detail view
 ## TMDB API
 https://www.themoviedb.org/documentation/api
 
+![Demo](http://s20.postimg.org/wfxbv3kwd/drawermenu.gif)
+
 ##External Libs Used :
 1. **Glide** : Image loading
 <br />compile 'com.github.bumptech.glide:glide:3.5.2'
